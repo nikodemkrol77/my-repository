@@ -1,2 +1,2 @@
-# my-repository
+# nIKODEM-KROL-1A-KODY-INFORMATYKA
 aaaaaa
