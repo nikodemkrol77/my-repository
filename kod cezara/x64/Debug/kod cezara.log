@@ -1,0 +1,3 @@
+﻿  kod cezara.cpp
+C:\Users\48724\source\repos\kod cezara\kod cezara\kod cezara.cpp(10,22): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  kod cezara.vcxproj -> C:\Users\48724\source\repos\kod cezara\x64\Debug\kod cezara.exe
